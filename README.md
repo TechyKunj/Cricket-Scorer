@@ -27,7 +27,7 @@ provides a list of live matches to choose from.
 displays live match details, including team names, scores, and a match summary.
 
 ## Licence
-This project is open-source and available under the [MIT Licence] (LICENCE).
+This project is open-source 
 
 ## Acknowledgments
 The project uses data from [Cricbuzz] (https://www.cricbuzz.com/).
