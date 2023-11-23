@@ -28,9 +28,6 @@ Under the hood, the application scrapes data from Cricbuzz, fetching live cricke
 - Presents a list of live matches for easy selection.
 - Displays live match details, including team names, scores, and a match summary.
 
-## License
-This project is open-source, fostering collaboration and improvement.
-
 ## Acknowledgments
 A special thanks to [Cricbuzz](https://www.cricbuzz.com/) for providing the essential match data.
 
